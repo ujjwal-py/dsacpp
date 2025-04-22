@@ -1,7 +1,7 @@
 class Solution {
 public:
     int compress(vector<char>& chars) {
-        vector<char> ans;
+        string ans = "";
         for (int i = 0; i < chars.size(); i++) {
             int count = 1;
             char s = chars[i];
@@ -9,21 +9,22 @@ public:
                 count++;
                 i++;
             }
-            ans.push_back(s);
+            ans += s;
             if (count == 1) {
 
             } 
             else {
                 string cn = to_string(count);
                 for (char t : cn) {
-                    ans.push_back(t);
+                    ans += t;
                 }
             }
         }
-        chars.clear();
-        for (int i = 0; i < ans.size(); i++) {
-            chars.push_back(ans[i]);
+        int l = 0;
+        for (char c : ans) {
+            chars[l] = c;
+            l++;
         }
-        return chars.size();
+        return ans.size();
     }
 };
