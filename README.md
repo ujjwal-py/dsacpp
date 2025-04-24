@@ -10,6 +10,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ujjwal-py/dsacpp/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/ujjwal-py/dsacpp/tree/master/0443-string-compression) |
+| [0812-rotate-string](https://github.com/ujjwal-py/dsacpp/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ujjwal-py/dsacpp/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/ujjwal-py/dsacpp/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ujjwal-py/dsacpp/tree/master/0205-isomorphic-strings) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ujjwal-py/dsacpp/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
