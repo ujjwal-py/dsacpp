@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ujjwal-py/dsacpp/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ujjwal-py/dsacpp/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/ujjwal-py/dsacpp/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/ujjwal-py/dsacpp/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ujjwal-py/dsacpp/tree/master/1078-remove-outermost-parentheses) |
@@ -29,8 +30,13 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ujjwal-py/dsacpp/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ujjwal-py/dsacpp/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ujjwal-py/dsacpp/tree/master/0812-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ujjwal-py/dsacpp/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
