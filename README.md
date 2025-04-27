@@ -8,6 +8,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ujjwal-py/dsacpp/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/ujjwal-py/dsacpp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ujjwal-py/dsacpp/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/ujjwal-py/dsacpp/tree/master/0443-string-compression) |
@@ -22,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ujjwal-py/dsacpp/tree/master/0013-roman-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/ujjwal-py/dsacpp/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -30,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ujjwal-py/dsacpp/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/ujjwal-py/dsacpp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ujjwal-py/dsacpp/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ujjwal-py/dsacpp/tree/master/0451-sort-characters-by-frequency) |
