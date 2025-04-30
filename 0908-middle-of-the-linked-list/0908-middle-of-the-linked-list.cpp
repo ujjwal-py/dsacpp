@@ -11,29 +11,29 @@
 class Solution {
     
 public:
-    int countEle(ListNode *head) {
-        int cnt = 0;
-        ListNode *temp = head;
-        while (temp != NULL) {
-            cnt++;
-            temp = temp->next;
-        }
-        return cnt;
-    }
+    // int countEle(ListNode *head) {
+    //     int cnt = 0;
+    //     ListNode *temp = head;
+    //     while (temp != NULL) {
+    //         cnt++;
+    //         temp = temp->next;
+    //     }
+    //     return cnt;
+    // }
     ListNode* middleNode(ListNode* head) {
-        int cnt = countEle(head);
-        if (cnt == 1) return head;
-        int mid = cnt/2 +1;
-        int k = 1;
-        ListNode *temp = head;
-        while (temp) {
-            if (k == mid) return temp;
-            else {
-                k++;
-                temp = temp->next;
+        if (head->next == nullptr) return head;
+        ListNode *slow = head;
+        ListNode *fast = head;
+
+        while (fast->next && fast) {
+            slow = slow->next;
+            if (fast->next->next == nullptr) {
+                fast = fast->next;
+                break;
             }
+            else fast = fast->next->next;
         }
-        return head;
+        return slow;
         
     }
 };
