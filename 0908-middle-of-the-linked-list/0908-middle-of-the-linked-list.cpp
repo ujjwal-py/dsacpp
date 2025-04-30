@@ -25,13 +25,9 @@ public:
         ListNode *slow = head;
         ListNode *fast = head;
 
-        while (fast->next && fast) {
+        while (fast && fast->next) {
             slow = slow->next;
-            if (fast->next->next == nullptr) {
-                fast = fast->next;
-                break;
-            }
-            else fast = fast->next->next;
+            fast = fast->next->next;
         }
         return slow;
         
