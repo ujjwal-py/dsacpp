@@ -104,4 +104,16 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ujjwal-py/dsacpp/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ujjwal-py/dsacpp/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ujjwal-py/dsacpp/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ujjwal-py/dsacpp/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
