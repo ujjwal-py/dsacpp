@@ -34,6 +34,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ujjwal-py/dsacpp/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ujjwal-py/dsacpp/tree/master/0013-roman-to-integer) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ujjwal-py/dsacpp/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/ujjwal-py/dsacpp/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -111,6 +112,7 @@
 | [0040-combination-sum-ii](https://github.com/ujjwal-py/dsacpp/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ujjwal-py/dsacpp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ujjwal-py/dsacpp/tree/master/0090-subsets-ii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ujjwal-py/dsacpp/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,9 +120,19 @@
 | [0040-combination-sum-ii](https://github.com/ujjwal-py/dsacpp/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ujjwal-py/dsacpp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ujjwal-py/dsacpp/tree/master/0090-subsets-ii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ujjwal-py/dsacpp/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ujjwal-py/dsacpp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ujjwal-py/dsacpp/tree/master/0090-subsets-ii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ujjwal-py/dsacpp/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ujjwal-py/dsacpp/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ujjwal-py/dsacpp/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
