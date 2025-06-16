@@ -57,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ujjwal-py/dsacpp/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/ujjwal-py/dsacpp/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/ujjwal-py/dsacpp/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ujjwal-py/dsacpp/tree/master/0451-sort-characters-by-frequency) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/ujjwal-py/dsacpp/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ujjwal-py/dsacpp/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/ujjwal-py/dsacpp/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ujjwal-py/dsacpp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ujjwal-py/dsacpp/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ujjwal-py/dsacpp/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -118,6 +120,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/ujjwal-py/dsacpp/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ujjwal-py/dsacpp/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/ujjwal-py/dsacpp/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ujjwal-py/dsacpp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ujjwal-py/dsacpp/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ujjwal-py/dsacpp/tree/master/1993-sum-of-all-subset-xor-totals) |
