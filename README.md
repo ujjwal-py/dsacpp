@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ujjwal-py/dsacpp/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/ujjwal-py/dsacpp/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/ujjwal-py/dsacpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ujjwal-py/dsacpp/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ujjwal-py/dsacpp/tree/master/0160-intersection-of-two-linked-lists) |
@@ -109,6 +110,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ujjwal-py/dsacpp/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ujjwal-py/dsacpp/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ujjwal-py/dsacpp/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/ujjwal-py/dsacpp/tree/master/0047-permutations-ii) |
@@ -119,6 +121,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ujjwal-py/dsacpp/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ujjwal-py/dsacpp/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ujjwal-py/dsacpp/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/ujjwal-py/dsacpp/tree/master/0047-permutations-ii) |
@@ -140,4 +143,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ujjwal-py/dsacpp/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ujjwal-py/dsacpp/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
